@@ -37,10 +37,10 @@ This game was designed and developed as a student project at **Mohajer College (
 ## 📸 Screenshots
 
 ### Start Screen
-![Start Menu](./image-1.jpg)
+![Start Menu](./image-1.png)
 
 ### Gameplay
-![Gameplay](./image-1.jpg)
+![Gameplay](./image-2.png)
 
 ### Game Over
-![Game Over](./image-3.jpg)
+![Game Over](./image-3.png)
